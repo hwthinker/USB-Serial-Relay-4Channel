@@ -1,5 +1,7 @@
 # HW-034(ICSE012A) 4-channel 5V Relay Module Board Relay Control Board with Indicator USB Input
 
+![HW-034 4-channel 5V Relay Module Board Relay Control Board with Indicator USB Input](./assets/1902150248_max.jpg)
+
 Modul ini memiliki port Micro USB dan port serial, sehingga dapat berkomunikasi dengan PC maupun perangkat lain dengan mudah. Tegangan kerja normal untuk modul ini adalah 5V, dan khusus untuk tipe ICSE014A terdapat antarmuka daya eksternal 5V.
  Spesifikasinya sebagai berikut:
 
@@ -53,8 +55,6 @@ Setelah modul menerima data “0x51”, modul akan beralih ke mode kerja normal.
 | 6    | ✗        | ✗        | ✓        | Mengontrol relay **K7** |
 | 7    | ✗        | ✗        | ✓        | Mengontrol relay **K8** |
 
-![HW-034 4-channel 5V Relay Module Board Relay Control Board with Indicator USB Input](./assets/1902150248_max.jpg)
-
 ### Cara koneksi
 
 ![HTB1r-Wp-HJp-XXXXc0-XFXXq6x-XFXXXc](./assets/HTB1r-Wp-HJp-XXXXc0-XFXXq6x-XFXXXc.jpg)
@@ -67,12 +67,5 @@ https://github.com/nemanjadjekic/ICSE012A_4_ChannelRelayBoard_PythonScript
 
 - https://www.youtube.com/watch?v=q7MQvInR8ts
 
-## Referensi
 
-- https://www.robotics.org.za/USB-REL4
 
-- https://pidelta.de/usb-relay-labview/
-
-- https://delendanet.blogspot.com/2017/08/controlling-icstation-relay-board.html
-
-  
