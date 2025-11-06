@@ -2,8 +2,8 @@
 
 ![HW-034 4-channel 5V Relay Module Board Relay Control Board with Indicator USB Input](./assets/1902150248_max.jpg)
 
-Modul ini memiliki port Micro USB dan port serial, sehingga dapat berkomunikasi dengan PC maupun perangkat lain dengan mudah. Tegangan kerja normal untuk modul ini adalah 5V, dan khusus untuk tipe ICSE014A terdapat antarmuka daya eksternal 5V.
- Spesifikasinya sebagai berikut:
+Modul ini memiliki port Micro USB dan port serial, sehingga dapat berkomunikasi dengan PC maupun perangkat lain dengan mudah. Tegangan kerja normal untuk modul ini adalah 5V yang dicatu oleh MicroUSB. Pin header 4 pin (5V GND TX RX) defaultnya tidak digunakan
+
 
 Semua modul dilengkapi dengan Micro USB dan port serial. Penjelasan pin adalah sebagai berikut:
 
