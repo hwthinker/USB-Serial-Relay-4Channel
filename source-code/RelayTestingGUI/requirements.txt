@@ -1,0 +1,11 @@
+# Requirements for 4-Channel USB Relay Controller
+# Install with: pip install -r requirements.txt
+
+# Core dependency for serial communication
+pyserial>=3.5
+
+# For building executable (optional, only needed for creating .exe)
+pyinstaller>=5.0
+
+# For creating custom icons (optional)
+Pillow>=9.0.0
