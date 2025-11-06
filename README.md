@@ -59,13 +59,15 @@ Setelah modul menerima data “0x51”, modul akan beralih ke mode kerja normal.
 
 ![HTB1r-Wp-HJp-XXXXc0-XFXXq6x-XFXXXc](./assets/HTB1r-Wp-HJp-XXXXc0-XFXXq6x-XFXXXc.jpg)
 
-## Link Source-code
-
-https://github.com/nemanjadjekic/ICSE012A_4_ChannelRelayBoard_PythonScript
-
 ## Fix USB driver
 
 - https://www.youtube.com/watch?v=q7MQvInR8ts
+
+## Referensi
+
+https://github.com/nemanjadjekic/ICSE012A_4_ChannelRelayBoard_PythonScript
+
+## 
 
 
 

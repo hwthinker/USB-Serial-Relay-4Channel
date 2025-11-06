@@ -16,7 +16,7 @@ from datetime import datetime
 class RelayControlGUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("4-Channel USB Relay Controller - ICSE012A")
+        self.root.title("4-Channel USB Relay Controller - Made by hwthinker@gmail.com")
         self.root.geometry("800x650")
         self.root.resizable(False, False)
         
