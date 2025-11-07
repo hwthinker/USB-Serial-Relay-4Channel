@@ -67,7 +67,7 @@ Setelah modul menerima data “0x51”, modul akan beralih ke mode kerja normal.
 
 https://github.com/nemanjadjekic/ICSE012A_4_ChannelRelayBoard_PythonScript
 
-## 
+
 
 
 
